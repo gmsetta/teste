@@ -1,2 +1,0 @@
-# teste
-Apenas um teste
